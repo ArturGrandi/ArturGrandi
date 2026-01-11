@@ -1,11 +1,28 @@
-# Artur Grandi — Grand Time (GT)
+# Artur Grandi
 
-This profile hosts the canonical public repositories related to **Grand Time (GT)** —
-a macroeconomic, time-based valuation system designed as an alternative framework
-for measuring human economic contribution beyond fiat currency models.
+Independent researcher building **Grand Time (GT 1.0)** — a **spec-first, research-only** economic protocol exploring **time as an economic primitive**.
 
-All repositories are explicitly scoped.  
-There is **no production deployment**, **no investment offering**, and **no commercial operation**.
+**Scope:** research, architecture, verification, controlled reference implementation  
+**Non-scope:** production system, token sales, investment offering, deployment promises
+
+## Canonical research reference (source of priority)
+
+**“Time as a Non-Monetary Economic Primitive”**  
+Zenodo (CERN) — DOI: https://doi.org/10.5281/zenodo.18190386  
+
+This DOI is the immutable, canonical record of authorship, priority, and economic meaning.  
+All GitHub repositories are **supporting reference artifacts** and do not introduce new economic claims.
+
+## Project hub
+
+This profile acts as the **navigation hub** for all GT 1.0 research artifacts and review entry points.
+
+## Current status
+
+GT 1.0 is in **Frozen Research Specification + Controlled Reference Implementation** stage.
+
+Full canonical scope and status definition:  
+https://github.com/ArturGrandi/ArturGrandi/blob/main/STATUS.md
 
 ---
 
