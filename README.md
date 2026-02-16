@@ -44,9 +44,8 @@ Looking for 2–3 senior contributors (Solidity, formal verification, economic p
 - Mint coverage enforcement & multi-asset liquidity scenarios
 - Oracle handling & emergency segregation invariants
 
-Research-only, unpaid. See detailed call in:  
-[Issue #2 → gt1-implementation-reference](https://github.com/ArturGrandi/gt1-implementation-reference/issues/2)
-
+Research-only, unpaid. 
+See detailed call in: [Issue #1 → gt1-implementation-reference](https://github.com/ArturGrandi/gt1-implementation-reference/issues/1)
 If interested: comment on the issue or DM here / on X @Artur07020283.
 
 ## Start Here (Canonical Index)
