@@ -26,6 +26,29 @@ https://github.com/ArturGrandi/ArturGrandi/blob/main/STATUS.md
 
 ---
 
+## GT 2.0 Research Track (Exploratory, Non-Canonical)
+
+Formal analysis of time-based economic models enabled by decentralized trust.  
+Submitted to Ethereum Foundation Ecosystem Support Program (ESP) on February 6, 2026.  
+[Grant Proposal PDF](https://github.com/ArturGrandi/ArturGrandi/raw/main/Grand%20Time_%20Time-Based%20Economic%20Models%20under%20Decentralized%20Trust.pdf)  
+Repository: [gt2-research-track](https://github.com/ArturGrandi/gt2-research-track)  
+Research DOI: [10.5281/zenodo.18275133](https://doi.org/10.5281/zenodo.18275133)
+
+Focus: Architectural constraints, invariants, failure modes for non-monetary time normalization under credibly neutral infrastructure.  
+All outputs research-only (no code, no production, no tokenomics).
+
+## Seeking Co-Authors / Contributors
+
+Looking for 2–3 senior contributors (Solidity, formal verification, economic primitives experience) to help with:
+- Verification & stress-testing of Time Capital activation gates
+- Mint coverage enforcement & multi-asset liquidity scenarios
+- Oracle handling & emergency segregation invariants
+
+Research-only, unpaid. See detailed call in:  
+[Issue #2 → gt1-implementation-reference](https://github.com/ArturGrandi/gt1-implementation-reference/issues/2)
+
+If interested: comment on the issue or DM here / on X @Artur07020283.
+
 ## Start Here (Canonical Index)
 
 ### 1. grand-time-architecture
