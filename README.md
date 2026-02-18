@@ -32,6 +32,9 @@ Formal analysis of time-based economic models enabled by decentralized trust.
 Submitted to Ethereum Foundation Ecosystem Support Program (ESP) on February 6, 2026.  
 [Grant Proposal PDF](https://github.com/ArturGrandi/ArturGrandi/raw/main/Grand%20Time_%20Time-Based%20Economic%20Models%20under%20Decentralized%20Trust.pdf)  
 Repository: [gt2-research-track](https://github.com/ArturGrandi/gt2-research-track)  
+Controlled Reference Demo Blueprint (verification-only):  
+docs/CONTROLLED_DEMO_BLUEPRINT.md  
+Deterministic state machine scaffold for invariant stress-testing (non-executable, no scope expansion).
 Research DOI: [10.5281/zenodo.18275133](https://doi.org/10.5281/zenodo.18275133)
 
 Focus: Architectural constraints, invariants, failure modes for non-monetary time normalization under credibly neutral infrastructure.  
