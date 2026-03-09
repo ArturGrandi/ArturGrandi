@@ -5,23 +5,43 @@ Independent researcher building **Grand Time (GT 1.0)** — a **spec-first, rese
 **Scope:** research, architecture, verification, controlled reference implementation  
 **Non-scope:** production system, token sales, investment offering, deployment promises
 
-## Canonical research reference (source of priority)
+---
+
+## Core Research Program and Canonical Reference
+
+### Canonical paper (source of theoretical priority)
 
 **“Time as a Non-Monetary Economic Primitive”**  
-Zenodo (CERN) — DOI: https://doi.org/10.5281/zenodo.18190386  
-Related research paper:
+Zenodo (CERN) — DOI: https://doi.org/10.5281/zenodo.18190386
 
-“Institutional Constraints on Macroeconomic Stock Representation: Why Capital Accumulates but Lifetime Does Not”  
-Zenodo (CERN) — DOI: https://doi.org/10.5281/zenodo.18912296
+This paper introduces the core economic concept of **time as a non-monetary economic primitive** and forms the theoretical foundation of the Grand Time research program.
 
-Related research paper:
+The DOI represents the canonical record of authorship, priority, and the original economic model.
 
-“Capital Accumulates. Lifetime Does Not: Institutional Constraints on Macroeconomic Stock Representation”  
+---
+
+### Related research papers (analytical extensions)
+
+**“Capital Accumulates. Lifetime Does Not: Institutional Constraints on Macroeconomic Stock Representation”**  
 Zenodo (CERN) — DOI: https://doi.org/10.5281/zenodo.18912295
 
-This DOI is the immutable, canonical record of authorship, priority, and economic meaning.  
-All GitHub repositories are **supporting reference artifacts** and do not introduce new economic claims.
+This paper analyzes institutional constraints on macroeconomic stock representation and explains the structural asymmetry between capital accumulation and human lifetime.
 
+---
+
+**“Institutional Constraints on Macroeconomic Stock Representation: Why Capital Accumulates but Lifetime Does Not”**  
+Zenodo (CERN) — DOI: https://doi.org/10.5281/zenodo.18912296
+
+An extended analytical version refining the formal institutional conditions under which macroeconomic variables qualify for durable stock status.
+
+---
+
+### Research architecture note
+
+All GitHub repositories in this profile serve as **supporting research artifacts**  
+(architecture, formula specification, invariant verification, and controlled reference implementation).
+
+They **do not introduce new economic claims** and are not canonical sources of the theory.
 ## Project hub
 
 This profile acts as the **navigation hub** for all GT 1.0 research artifacts and review entry points.
