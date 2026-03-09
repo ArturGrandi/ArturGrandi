@@ -9,6 +9,15 @@ Independent researcher building **Grand Time (GT 1.0)** — a **spec-first, rese
 
 **“Time as a Non-Monetary Economic Primitive”**  
 Zenodo (CERN) — DOI: https://doi.org/10.5281/zenodo.18190386  
+Related research paper:
+
+“Institutional Constraints on Macroeconomic Stock Representation: Why Capital Accumulates but Lifetime Does Not”  
+Zenodo (CERN) — DOI: https://doi.org/10.5281/zenodo.18912296
+
+Related research paper:
+
+“Capital Accumulates. Lifetime Does Not: Institutional Constraints on Macroeconomic Stock Representation”  
+Zenodo (CERN) — DOI: https://doi.org/10.5281/zenodo.18912295
 
 This DOI is the immutable, canonical record of authorship, priority, and economic meaning.  
 All GitHub repositories are **supporting reference artifacts** and do not introduce new economic claims.
